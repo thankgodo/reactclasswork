@@ -1,0 +1,19 @@
+
+Build a four page website using ReactJs and react router Dom for routing. 
+All pages will maintain the same header and footer, with navigation to each page's route on the header. 
+
+The pages include : 
+
+Home Page
+Create Profile Page
+Delete Profile Page
+Color Page. Page
+
+The colour page should have a button that changes the background colour to at least five colours.
+
+ 
+
+Note: all pages must carry the same profile that was created using the profile page, 
+and the delete page is the only page u can delete the profiles globally 
+
+Goodluck!!
